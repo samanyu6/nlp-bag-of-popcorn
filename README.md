@@ -1,5 +1,6 @@
 <header>NLP sentiment analysis</header>
 <ul>
+  <li>download the data for the execution from kaggle - bag of popcorn</li>
   <li>Installing the necessary python files and libraries</li>
   <ul>
     <li>easy_install pip3</li>
